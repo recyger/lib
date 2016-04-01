@@ -14,7 +14,7 @@
     }
   ],
   "autoload"         : {
-    "psr-4": {"testing": ""}
+    "psr-4": {"testing\\": ""}
   },
   "repositories" : [
     {
