@@ -1,5 +1,5 @@
 {
-  "name"             : "testing/lib",
+  "name"             : "testing_gear/lib",
   "description"      : "description_text",
   "minimum-stability": "stable",
   "license"          : "proprietary",
