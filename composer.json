@@ -4,6 +4,9 @@
   "minimum-stability": "dev",
   "license"          : "proprietary",
   "type"             : "test-lib",
+  "config": {
+    "secure-http": false
+  },
   "authors"          : [
     {
       "name" : "author's name",
