@@ -10,5 +10,11 @@
       "name" : "author's name",
       "email": "email@example.com"
     }
+  ],
+  "repositories" : [
+    {
+      "type" : "composer",
+      "url" : "http://packagist.itass.local/"
+    }
   ]
 }
