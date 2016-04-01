@@ -4,7 +4,6 @@
   "minimum-stability": "dev",
   "license"          : "proprietary",
   "type"             : "test-lib",
-  "version"          : "0.1.2",
   "authors"          : [
     {
       "name" : "author's name",
