@@ -1,7 +1,7 @@
 {
   "name"             : "testing/lib",
   "description"      : "description_text",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license"          : "proprietary",
   "type"             : "test-lib",
   "version"          : "0.1.2",
