@@ -7,6 +7,6 @@ namespace testing;
 class Lib
 {
     public function testing() {
-        echo 'lib pass' . PHP_EOL;
+        echo 'lib passed' . PHP_EOL;
     }
 }
